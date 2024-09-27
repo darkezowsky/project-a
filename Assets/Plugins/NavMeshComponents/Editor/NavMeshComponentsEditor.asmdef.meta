@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 86c9d8e67265f41469be06142c397d17
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Plugins/NavMeshComponents/Editor/NavMeshComponentsEditor.asmdef
+  uploadId: 540206
