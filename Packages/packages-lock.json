@@ -52,7 +52,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.collab-proxy": {
-      "version": "2.5.2",
+      "version": "2.6.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -70,7 +70,7 @@
       "depth": 0,
       "source": "builtin",
       "dependencies": {
-        "com.unity.mobile.android-logcat": "1.4.3",
+        "com.unity.mobile.android-logcat": "1.4.4",
         "com.unity.adaptiveperformance": "5.1.0",
         "com.unity.mobile.notifications": "2.4.0"
       }
@@ -103,7 +103,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.mobile.android-logcat": {
-      "version": "1.4.3",
+      "version": "1.4.4",
       "depth": 1,
       "source": "registry",
       "dependencies": {},
